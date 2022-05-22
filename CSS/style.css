@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    ;
+}
+
+.nosotros{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 200px;
+      ;
+}
+
+
+.col-3{
+    ;
+}
+
+.metal{
+   text-align: end;
+   text-decoration: underline;
+   padding-top: 200px;
+}
+
+.melamina{
+    text-align: end;
+  text-decoration: underline;
+  padding-top: 200px;
+}
+
+.section{
+    border-radius: 2px solid black ;
+}
